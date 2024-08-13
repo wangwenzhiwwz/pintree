@@ -1,7 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+#progressContainer {
+  transition: opacity 0.3s ease-in-out;
+}
 
+#progressBar {
+  transition: width 0.5s ease;
+}
 .text-main-500{
   --tw-text-opacity: 1;
   color: rgba(11, 166, 101, var(--tw-text-opacity)) 
