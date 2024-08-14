@@ -1220,6 +1220,41 @@
             "url": "https://www.xmwav.com/"
           }
         ]
+      },
+      {
+        "type": "link",
+        "addDate": 1723648398709,
+        "title": "zeabur",
+        "icon": "https://logo.clearbit.com/zeabur.com",
+        "url": "https://zeabur.com/zh-CN"
+      },
+      {
+        "type": "link",
+        "addDate": 1723648044434,
+        "title": "仓库授权",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/apps/zeabur/installations/new"
+      },
+      {
+        "type": "link",
+        "addDate": 1723648244038,
+        "title": "pintree源仓库",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/Pintree-io/pintree"
+      },
+      {
+        "type": "link",
+        "addDate": 1723648284833,
+        "title": "谷歌浏览器扩展",
+        "icon": "https://logo.clearbit.com/chromewebstore.google.com",
+        "url": "https://chromewebstore.google.com/detail/pintree-bookmarks-exporte/mjcglnkikjidokobpfdcdmcnfdicojce"
+      },
+      {
+        "type": "link",
+        "addDate": 1723648303334,
+        "title": "Edge浏览器扩展",
+        "icon": "https://logo.clearbit.com/microsoftedge.microsoft.com",
+        "url": "https://microsoftedge.microsoft.com/addons/detail/pintree-bookmarks-exporte/binmofchlenaimbnocogbpebiodjlgkm"
       }
     ]
   }
